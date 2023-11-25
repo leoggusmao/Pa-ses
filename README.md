@@ -1,2 +1,3 @@
-# Países
-Pequena tabela com países e links
+Primeira página com tabelas, imagens e hiperlinks.
+
+Competências: HTML
