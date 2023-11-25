@@ -1,2 +1,2 @@
-# Pa-ses
+# Países
 Pequena tabela com países e links
